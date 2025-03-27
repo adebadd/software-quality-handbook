@@ -9,7 +9,7 @@ Code reviews are a key quality control practice used to identify bugs, ensure co
 
 - **Review in small chunks:** Keep pull requests small (ideally under 400 lines) to ensure focused and thorough reviews.
 - **Set clear expectations:** Use documented coding standards and review checklists to align reviewers.
-- **Give constructive feedback:** Focus on clarity, design, and logic — not personal preferences or style.
+- **Give constructive feedback:** Focus on clarity, design, and logic — not on personal preferences or style.
 - **Use automated tools for routine checks:** Let linters and formatters handle style so reviewers can focus on architecture and logic.
 - **Review promptly:** Aim to provide feedback within 24 hours to keep the team moving.
 - **Praise good code:** Highlight well-written, readable, or elegant code to reinforce good habits.
