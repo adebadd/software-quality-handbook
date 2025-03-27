@@ -10,21 +10,21 @@ As new team members join and projects scale, this handbook will serve as a refer
 
 The primary goals of this handbook are to:
 
-- Establish clear, practical quality standards across all teams
-- Onboard new developers more efficiently with a single source of truth
-- Reduce production defects through improved development practices
-- Promote consistency and accountability in code   quality and delivery
+- Establish clear, practical quality standards across all teams.
+- Onboard new developers more efficiently with a single source of truth.
+- Reduce production defects through improved development practices.
+- Promote consistency and accountability in code quality and delivery.
 
 ## How to Use This Handbook
 
 Each section of the handbook focuses on a key area of software quality and includes:
 
-- A short introduction explaining the topic and its importance
-- Bullet-pointed best practices and common mistake to avoid
-- Diagrams to explain concepts visually where appropriate
-- Links to further reading for team members who want to go deeper
+- A short introduction explaining the topic and its importance.
+- Bullet-pointed best practices and common mistakes to avoid.
+- Diagrams to explain concepts visually where appropriate.
+- Links to further reading for team members who want to go deeper.
 
-The content in this handbook is concise and designed for quick reference. Engineers should refer to this regularly as part of their development lifecycle. Links are provided for futher in depth details. 
+The content in this handbook is concise and designed for quick reference. Engineers should refer to this regularly as part of their development lifecycle. Links are provided for further in depth details. 
 
 ## Topics Covered
 
