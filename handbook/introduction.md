@@ -30,5 +30,5 @@ The content in this handbook is concise and designed for quick reference. Engine
 
 1. **Task Estimation in Scrum** – Learn how to estimate work effectively to maintain project predictability.
 2. **Code Reviews** – Understand how to perform and receive constructive code reviews that improve overall quality.
-3. **DevOps Integration** – Adopt best practices for integrating development with operations to reduce deployment issues and improve reliability.
+3. **DevOps Integration** – Adopt best practices for integrating development with operations to reduce all deployment issues and improve reliability.
 
