@@ -17,6 +17,15 @@ Code reviews are a key quality control practice used to identify bugs, ensure co
 
 ## Practices to Avoid
 
+- **Overlooking the purpose:** Reviews should focus on things like logic, readability, and maintainability.
+- **Giving vague feedback:** Elaboration is necessary to prevent reviewers from being confused and lost. It is important to be specific and helpful.
+- **Delaying reviews unnecessarily:** Waiting days to review blocks progress and kills momentum. When you are busy with coding, others should be informed.
+- **Being overly critical or personal:** There is no need for personal feedback to be dealt. The criticism should focus on the code only, not the coder.
+- **Approving without reviewing:** The entire process is undermined if the code is not approved first.
+- **Focusing only on style:** The review should be focused on the value of the criticism more than the presentation.
+- **Rewriting the code in comments:** Avoid suggesting complete rewrites unless necessary, focus on meaningful improvements.
+
+
 ## Diagram
 
 ![Code Review Process](https://www.researchgate.net/publication/328541762/figure/fig1/AS:686040184528896@1540576134082/Overview-of-the-Code-Review-Process.png)
