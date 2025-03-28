@@ -24,7 +24,7 @@ Each section of the handbook focuses on a key area of software quality and inclu
 - Diagrams to explain concepts visually where appropriate.
 - Links to further reading for team members who want to go deeper.
 
-The content in this handbook is concise and designed for quick reference. Engineers should refer to this regularly as part of their development lifecycle. Links are provided for further in depth details. 
+The content in this handbook is concise and designed for quick reference. Engineers should refer to this regularly as part of their development lifecycle. 
 
 ## Topics Covered
 
