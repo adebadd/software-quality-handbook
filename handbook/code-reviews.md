@@ -28,9 +28,9 @@ Code reviews are a key quality control practice used to identify bugs, ensure co
 
 ## Diagram
 
-![Code Review Process](https://www.researchgate.net/publication/328541762/figure/fig1/AS:686040184528896@1540576134082/Overview-of-the-Code-Review-Process.png)
+![Code Review Process](https://www.prakashbhandari.com.np/images/posts/code-review-process-in-software-development/code-review-process.png)
 
-*Source: [Overview of the Code Review Process](https://www.researchgate.net/figure/Overview-of-the-Code-Review-Process_fig1_328541762)*
+*Source: [Code Review in Software Development Process](https://www.prakashbhandari.com.np/posts/code-review-in-software-development-process/)*
 
 ## Resources for Further Reading
 
