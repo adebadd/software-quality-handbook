@@ -3,6 +3,15 @@
 ## Introduction
 DevOps Integration is an essential component of software development. It provides the necessary tools and practices that businesses need to speed their processes up. The increased speeds provided by devops allows for organisations to perform work more efficiently and improve their services to their customers. There is a lot of stages and planning that goes into the integration of DevOps into systems. Teams need to be In this section, the benefits and changes that DevOps can bring into IT will be discussed, as well as general information about DevOps integration.
 
+ ## DevOps Career Opportunities
+
+- **DevOps Consultant**
+- **Toolchain Developer**
+- **Security DevOps Engineer**
+- **Cloud DevOps Engineer**
+- **DevOps Engineer**
+- **Quality Assurance (QA) Engineer with DevOps**
+
 ## Video Explaining DevOps
 
 [![YouTube](http://i.ytimg.com/vi/Me3ea4nUt0U/hqdefault.jpg)](https://www.youtube.com/watch?v=Me3ea4nUt0U)
@@ -20,6 +29,7 @@ DevOps Integration is an essential component of software development. It provide
 - **Missing key elements** can cause the entire DevOps process to fall apart.
 - **Hiring experienced staff** can be difficult, as the DevOps industry requires significant experience for the best results.
 - **Failing to plan for security** requires extra steps to create contingencies in the case of security faults and breaches.
+- **Thinking inside the box** can be a detriment as sometimes the most efficient solution is the least common or expected one.
 
 ## DevOps Lifecycle Example
 
@@ -33,4 +43,3 @@ DevOps Integration is an essential component of software development. It provide
 2. [Atlassian – What is DevOps?](https://www.atlassian.com/devops/what-is-devops)
 3. [Martin Fowler – Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
 4. [GitLab – DevOps Stages](https://about.gitlab.com/topics/devops/)
-
