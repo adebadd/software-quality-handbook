@@ -3,14 +3,27 @@
 ## Introduction
 DevOps Integration is an essential component of software development. It provides the necessary tools and practices that businesses need to speed their processes up. The increased speeds provided by devops allows for organisations to perform work more efficiently and improve their services to their customers. There is a lot of stages and planning that goes into the integration of DevOps into systems. Teams need to be In this section, the benefits and changes that DevOps can bring into IT will be discussed, as well as general information about DevOps integration.
 
- ## DevOps Career Opportunities
+## DevOps Roles Within Our Company
 
-- **DevOps Consultant**
-- **Toolchain Developer**
-- **Security DevOps Engineer**
-- **Cloud DevOps Engineer**
+To clarify roles and responsibilities within our DevOps practice, here are the primary positions and their responsibilities in our company:
+
 - **DevOps Engineer**
-- **Quality Assurance (QA) Engineer with DevOps**
+  - Implements CI/CD pipelines to automate build, test, and deployment processes.
+  - Manages infrastructure as code (IaC) to ensure scalable and maintainable systems.
+  
+- **Cloud Infrastructure Engineer**
+  - Manages cloud environments to ensure reliability, scalability, and cost-effectiveness.
+  - Works closely with development teams to integrate cloud services with applications.
+
+- **Security DevOps Specialist**
+  - Ensures continuous security compliance and integrates security into the DevOps lifecycle.
+  - Performs regular audits and automates security checks.
+
+- **Quality Assurance (QA) DevOps Engineer**
+  - Integrates automated testing frameworks into the DevOps pipelines.
+  - Monitors and reports on test coverage and quality metrics.
+
+This structure aligns more closely with our handbook's goal of clearly defining internal best practices and roles.
 
 ## Video Explaining DevOps
 
