@@ -23,8 +23,6 @@ To clarify roles and responsibilities within our DevOps practice, here are the p
   - Integrates automated testing frameworks into the DevOps pipelines.
   - Monitors and reports on test coverage and quality metrics.
 
-This structure aligns more closely with our handbook's goal of clearly defining internal best practices and roles.
-
 ## Video Explaining DevOps
 
 [![YouTube](http://i.ytimg.com/vi/Me3ea4nUt0U/hqdefault.jpg)](https://www.youtube.com/watch?v=Me3ea4nUt0U)
@@ -48,7 +46,7 @@ This structure aligns more closely with our handbook's goal of clearly defining 
 
 ![DevOps Lifecycle](https://wac-cdn.atlassian.com/dam/jcr:1f9893d0-a300-4afd-95b3-3ddb79403d62/ADO-DevOps-Tool_1200x675@2x.png?cdnVersion=2629)
 
-*Source: Atlassian – DevOps Lifecycle*
+[Source: Atlassian – DevOps Lifecycle](https://www.atlassian.com/devops)
 
 ## Resources for Further Reading
 
