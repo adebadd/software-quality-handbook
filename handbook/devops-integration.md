@@ -1,6 +1,7 @@
 # DevOps Integration
 
 ## Introduction
+
 DevOps Integration is an essential component of software development. It provides the necessary tools and practices that businesses need to speed their processes up. The increased speeds provided by devops allows for organisations to perform work more efficiently and improve their services to their customers. There is a lot of stages and planning that goes into the integration of DevOps into systems. Teams need to be In this section, the benefits and changes that DevOps can bring into IT will be discussed, as well as general information about DevOps integration.
 
 ## DevOps Roles Within Our Company
@@ -10,12 +11,13 @@ To clarify roles and responsibilities within our DevOps practice, here are the p
 - **DevOps Engineer**
   - Implements CI/CD pipelines to automate build, test, and deployment processes.
   - Manages infrastructure as code (IaC) to ensure scalable and maintainable systems.
-  
 - **Cloud Infrastructure Engineer**
+
   - Manages cloud environments to ensure reliability, scalability, and cost-effectiveness.
   - Works closely with development teams to integrate cloud services with applications.
 
 - **Security DevOps Specialist**
+
   - Ensures continuous security compliance and integrates security into the DevOps lifecycle.
   - Performs regular audits and automates security checks.
 
@@ -33,7 +35,7 @@ To clarify roles and responsibilities within our DevOps practice, here are the p
 - **Project management** is important as it can help prevent the project from becoming bloated, and large tasks can be broken down and assigned to employees in an efficient manner. This can help prevent the process from being slowed down.
 - **Observation** is necessary, and tracking the flow of work can help prevent errors and issues from having major consequences. A method of storing and managing the observed information should be integrated.
 - **Integrating Security** is important to allow for control of the project to be maintained. Security should be integrated in a way that DevOps without compromising goals. It is important for security to be included to prevent the DevOps process from being interrupted by hackers or technical faults.
-- **Blameless Collaboration** allows for the fear of failure to be eliminated and this allows for individuals with issues to express them confidently and problems that come up can be tackled more efficiently. Promoting trust leads to better results during the process. 
+- **Blameless Collaboration** allows for the fear of failure to be eliminated and this allows for individuals with issues to express them confidently and problems that come up can be tackled more efficiently. Promoting trust leads to better results during the process.
 
 ## Practices to Avoid
 
@@ -51,6 +53,7 @@ To clarify roles and responsibilities within our DevOps practice, here are the p
 ## Resources for Further Reading
 
 1. [MuleSoft – DevOps Integration](https://www.mulesoft.com/resources/devops-integration)
-2. [Atlassian – What is DevOps?](https://www.atlassian.com/devops/what-is-devops)
-3. [Martin Fowler – Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
-4. [GitLab – DevOps Stages](https://about.gitlab.com/topics/devops/)
+2. [Journey as a DevOps Engineer](https://www.linkedin.com/pulse/journey-devops-engineer-experiences-challenges-rafael-levi-costa/)
+3. [Pavan kumar – My Learning Journey in DevOps and AWS](https://www.reddit.com/r/devops/comments/wuetf4/devops_project_ideas_for_experience/)
+4. [Graduated a year ago, my experience with DevOps](https://www.reddit.com/r/cscareerquestions/comments/b1oyjw/graduated_a_year_ago_my_experience_with_devops/)
+5. [GitLab – DevOps Stages](https://about.gitlab.com/topics/devops/)
