@@ -21,3 +21,21 @@ This plan outlines the tasks, timelines, and responsibilities for developing our
 - Each task will have a dedicated feature branch.
 - Two or more members will collaborate on each task.
 - All contributions are peer-reviewed via pull requests before merging to `main`.
+
+# Team Reflection and Contributions
+
+## What Went Well
+
+- Abdul Badmos: Clear division of tasks at the start of the project allowed everyone to work independently without confusion.
+
+## What Could Be Improved
+
+- Abdul Badmos: Earlier syncing could have helped avoid small formatting inconsistencies across sections.
+
+## Lessons Learned
+
+- Abdul Badmos: Using a clear project plan from the beginning made it easier to manage deadlines and responsibilities.
+
+## Final Notes
+
+This handbook project gave us a structured way to practise collaborative software documentation, estimation, and version control. Everyone contributed meaningfully, and we followed the trunk-based development model with active pull requests and feedback. We would adopt a similar workflow for future team-based technical writing.
