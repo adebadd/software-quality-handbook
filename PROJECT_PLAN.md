@@ -45,6 +45,14 @@ This plan outlines the tasks, timelines, and responsibilities for developing our
 - Otito Ukachukwu: GitHub's branching and pull request system helped maintain clarity and collaboration while working in parallel.
 - Olatunde Hassan: Regularly previewing markdown and diagrams in VS Code helped catch visual issues early.
 
-## Final Notes
+## Development Process Evaluation
 
 This handbook project gave us a structured way to practise collaborative software documentation, estimation, and version control. Everyone contributed meaningfully, and we followed the trunk-based development model with active pull requests and feedback. We would adopt a similar workflow for future team-based technical writing.
+
+## Observations and Process Improvements
+
+In some cases, force-pushes were used on shared branches (for example - `feature/final-edits`). This introduced risks such as potential overwrites or lost formatting, which we encountered with the Code Reviews section. In the future, we would avoid force-pushing to collaborative branches and instead use safer alternatives like `--force-with-lease` when absolutely necessary.
+
+A few pull requests and commits lacked detailed descriptions. This made it harder to track the intent behind some changes. Going forward, we would ensure commit messages and PR descriptions clearly explain what was changed and why, to improve collaboration and traceability.
+
+We would also benefit from introducing a final checklist or review phase before merging into `main` to catch minor formatting or consistency issues earlier.
