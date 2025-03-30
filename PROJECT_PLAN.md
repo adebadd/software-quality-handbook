@@ -27,14 +27,18 @@ This plan outlines the tasks, timelines, and responsibilities for developing our
 ## What Went Well
 
 - Abdul Badmos: Clear division of tasks at the start of the project allowed everyone to work independently without confusion.
+- Abdul Mannan Akhtar: Everyone contributed to reviewing and proofreading at least one other section, which improved the overall quality.
 
 ## What Could Be Improved
 
 - Abdul Badmos: Earlier syncing could have helped avoid small formatting inconsistencies across sections.
+- Abdul Mannan Akhtar: A few tasks required clarification mid-way through and could have benefited from a short team catch-up or checklist in the README.
 
 ## Lessons Learned
 
 - Abdul Badmos: Using a clear project plan from the beginning made it easier to manage deadlines and responsibilities.
+- Abdul Mannan Akhtar: Having two contributors per topic ensured a second layer of review, which improved the quality of every section.
+
 
 ## Final Notes
 
