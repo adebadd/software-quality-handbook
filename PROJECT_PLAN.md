@@ -27,14 +27,17 @@ This plan outlines the tasks, timelines, and responsibilities for developing our
 ## What Went Well
 
 - Abdul Badmos: Clear division of tasks at the start of the project allowed everyone to work independently without confusion.
+- Otito Ukachhukwu: Communication on GitHub through comments and reviews was professional and helpful.
 
 ## What Could Be Improved
 
 - Abdul Badmos: Earlier syncing could have helped avoid small formatting inconsistencies across sections.
+- Otito Ukachukwu: Reviewing diagrams and link accessibility could have been included in the initial review checklist to avoid late-stage edits.
 
 ## Lessons Learned
 
 - Abdul Badmos: Using a clear project plan from the beginning made it easier to manage deadlines and responsibilities.
+- Otito Ukachukwu: GitHub's branching and pull request system helped maintain clarity and collaboration while working in parallel.
 
 ## Final Notes
 
