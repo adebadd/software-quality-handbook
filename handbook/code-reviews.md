@@ -50,12 +50,16 @@ Use this checklist for each code review to ensure comprehensive coverage:
 Continuous Improvement
 Regularly improve the code review process by:
 
-Soliciting team feedback on review effectiveness.
-Monitoring key review metrics, such as defect rates and review completion time.
-Adapting processes based on project complexity, team size, and ongoing feedback.
-Resources for Further Reading
-Google Engineering Practices – Code Reviews
-Atlassian – Why code reviews matter
-GitLab Docs – Code Review Guidelines
-Reddit - How to instil good code review practices
-LinkedIn - Code Reviews: The Good, The Bad and the Ugh
+- Soliciting team feedback on review effectiveness.
+- Monitoring key review metrics, such as defect rates and review completion time.
+- Adapting processes based on project complexity, team size, and ongoing feedback.
+
+## Resources for Further Reading
+
+1. [Google Engineering Practices – Code Reviews](https://google.github.io/eng-practices/review/)
+2. [Atlassian – Why code reviews matter](https://www.atlassian.com/agile/software-development/code-reviews)
+3. [GitLab Docs – Code Review Guidelines](https://docs.gitlab.com/development/code_review/)
+4. [Reddit - How to instil good code review practices](https://www.reddit.com/r/ExperiencedDevs/comments/1htpu5g/how_to_instil_good_code_review_practices/)
+5. [LinkedIn - Code Reviews: The Good, The Bad and the Ugh](https://www.linkedin.com/pulse/code-reviews-good-bad-ugh-nic-pegg-74q3c/)
+
+
