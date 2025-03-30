@@ -28,17 +28,22 @@ This plan outlines the tasks, timelines, and responsibilities for developing our
 
 - Abdul Badmos: Clear division of tasks at the start of the project allowed everyone to work independently without confusion.
 - Abdul Mannan Akhtar: Everyone contributed to reviewing and proofreading at least one other section, which improved the overall quality.
+- Otito Ukachhukwu: Communication on GitHub through comments and reviews was professional and helpful.
+- Olatunde Hassan: Each team member followed the trunk-based development process effectively, using branches and pull requests as required.
 
 ## What Could Be Improved
 
 - Abdul Badmos: Earlier syncing could have helped avoid small formatting inconsistencies across sections.
 - Abdul Mannan Akhtar: A few tasks required clarification mid-way through and could have benefited from a short team catch-up or checklist in the README.
+- Otito Ukachukwu: Reviewing diagrams and link accessibility could have been included in the initial review checklist to avoid late-stage edits.
+- Olatunde Hassan: Some team members were slow to push their branches early in the week, which delayed feedback loops.
 
 ## Lessons Learned
 
 - Abdul Badmos: Using a clear project plan from the beginning made it easier to manage deadlines and responsibilities.
 - Abdul Mannan Akhtar: Having two contributors per topic ensured a second layer of review, which improved the quality of every section.
-
+- Otito Ukachukwu: GitHub's branching and pull request system helped maintain clarity and collaboration while working in parallel.
+- Olatunde Hassan: Regularly previewing markdown and diagrams in VS Code helped catch visual issues early.
 
 ## Final Notes
 
